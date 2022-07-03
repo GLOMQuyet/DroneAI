@@ -2,7 +2,7 @@
 
 How to use
 
-step 1: https://github.com/GLOMQuyet/DroneAI
+step 1: git clone https://github.com/GLOMQuyet/DroneAI.git
 
 step 2: create env for python
 
