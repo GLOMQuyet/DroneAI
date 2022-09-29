@@ -1,7 +1,8 @@
 # DroneAI
 
-How to use
+##How to use
 
+```python
 step 1: git clone https://github.com/GLOMQuyet/DroneAI.git
 
 step 2: create env for python
@@ -9,20 +10,22 @@ step 2: create env for python
 step 3: cd Drone AI
 
 step 4: python run app.py
-
+```
 
 ## Note
 My project will first detect faces from github deepface.
-then we will use the medipipe to detect hand gestures then we generate actions to control the drone
+then we will use the medipipe to detect hand gestures then we generate actions to control the drone.
+Label for hand recognition model to control drone
 
-# model1 
-Stop
+# model1 (left hand)
+**Stop
 ok
-Open
+Open**
 
-# model2
-lentay
+# model2(Right hand)
+
+**lentay
 xuongtay
 hattay
-phaytay
+phaytay**
 
