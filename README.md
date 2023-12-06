@@ -9,7 +9,9 @@ step 2: create env for python
 
 step 3: cd DroneAI
 
-step 4: python app.py
+step 4: pip install -r requirements.txt
+
+step 5: python app.py
 ```
 
 ## Note
