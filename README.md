@@ -1,15 +1,15 @@
 # DroneAI
 
-##How to use
+## How to use
 
 ```python
 step 1: git clone https://github.com/GLOMQuyet/DroneAI.git
 
 step 2: create env for python
 
-step 3: cd Drone AI
+step 3: cd DroneAI
 
-step 4: python run app.py
+step 4: python app.py
 ```
 
 ## Note
